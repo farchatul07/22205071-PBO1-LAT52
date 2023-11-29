@@ -11,7 +11,7 @@ package pkg22205071_pbo_lat52;
  Nim               : 22205071
  Prodi             : Teknik Informatika
  Kelas             : PBO1
- Deskripsi Program : Program ini berisi program untuk Menampilkan SIAPA KAMU
+ Deskripsi Program : untuk menampilkan hasil SIAPA KAMU dengan menampilkan teks "Saya manusia"
  */
 class Manusia {
     
